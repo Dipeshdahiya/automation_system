@@ -18,15 +18,16 @@ The focus is on **clarity, reliability, and predictable behavior**, not fancy fe
 
 automation_system/
 ├── input/
-│ ├── data.txt
-│ ├── config.json
+│   ├── data.txt
+│   └── config.json
 │
 ├── output/
-│ ├── summary.txt
-│ ├── run.log
+│   ├── summary.txt
+│   └── run.log
 │
 ├── automation.py
 └── README.md
+
 
 yaml
 Copy code
@@ -43,3 +44,4 @@ Copy code
 
 ```bash
 python automation.py
+
