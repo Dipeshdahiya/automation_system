@@ -1,0 +1,7 @@
+{
+  "project_name": "Media Automation System",
+  "version": "1.0",
+  "author": "Dipesh ",
+  "required": true,
+  "description": "Basic configuration file for input validation and automation run"
+}
